@@ -17,7 +17,7 @@ Instruction Mode: Blended 
 ###  Instructor 
 Cristina Savin, csavin@nyu.edu
 
-Office hours:  TBD
+Office hours:  TBD (Online)
 
 ### TAs
 Ashwin Siripurapu (in-person for section 002 - blended), ars991@nyu.edu
@@ -45,6 +45,7 @@ We will use Piazza for announcements, and discussions about the course. Interact
 
 ### Projects
 Work in groups of 2-3 students.* Topics are flexible, including applying know algorithms to an interesting dataset, reviewing and implementing a state of the art solution, to improving an existing algorithm. Project proposals due in week 4. 
+
 *Check with CS if you are considering working individually or in a larger group.
 
 ### Online recordings 
