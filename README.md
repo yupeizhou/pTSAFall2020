@@ -16,6 +16,7 @@ Instruction Mode: Blended 
 
 ###  Instructor 
 Cristina Savin, csavin@nyu.edu
+
 Office hours:  TBD
 
 ### TAs
@@ -35,7 +36,7 @@ This graduate level course presents fundamental tools for characterizing data wi
 Note: information presented is tentative, syllabus may be subject to change as course progresses.
 
 ### Grading
-problem sets (25%) + midterm exam (25%) + final project (25%) + lab(20%)+participation(5%)
+problem sets (25%) + midterm exam (20%) + final project (25%) + lab(20%)+participation(10%)
 
 Participation: piazza, engagement during lectures, labs, and office hours
 
