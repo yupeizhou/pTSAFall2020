@@ -20,9 +20,12 @@ Office hours:  TBD
 
 ### TAs
 Ashwin Siripurapu (in-person for section 002 - blended), ars991@nyu.edu
+
 Jiyuan Lu (remote for section 002 - blended), jl11046@nyu.edu
+
 Colin Bredenberg (remote for section 018), cjb617@nyu.edu 
- Yiqiu (Artie) Shen, (grader) ys1001@nyu.edu
+
+Yiqiu (Artie) Shen, (grader) ys1001@nyu.edu
 
 Office hours: TBD (Online)
 
