@@ -44,7 +44,8 @@ Participation: piazza, engagement during lectures, labs, and office hours
 We will use Piazza for announcements, and discussions about the course. Interactions on Piazza, particularly good answers to other students' questions, will count toward the participation grade.
 
 ### Projects
-Work in groups of 2-3 students.* Topics are flexible, including applying know algorithms to an interesting dataset, reviewing and implementing a state of the art solution, to improving an existing algorithm. Project proposals due in week 4. *Check with CS if you are considering working individually or in a larger group.
+Work in groups of 2-3 students.* Topics are flexible, including applying know algorithms to an interesting dataset, reviewing and implementing a state of the art solution, to improving an existing algorithm. Project proposals due in week 4. 
+*Check with CS if you are considering working individually or in a larger group.
 
 ### Online recordings 
 Lecture videos will be posted to NYU Classes. Class attendance is still required.
