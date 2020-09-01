@@ -49,19 +49,19 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 
 | Date | Lecture  | Assignments |
 |------------|----------------------|----------------|
-|Sept. 2| [no lab]| | 
+|Sept. 2| No lab| | 
 |Sept. 8| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.](./slides/lecture1.pdf)| | 
-|Sept. 9|[No lab. Recap basic Bayes, graphical models as prerecorded video (classes meet on Mo schedule)] | | 
+|Sept. 9| No lab. Recap basic Bayes, graphical models as prerecorded video (classes meet on Mo schedule)] | | 
 |Sept. 15| [Lecture 2: AR basic inference and learning](./slides/lecture2.pdf) | |  
-|Sept. 16| [Lab 1: AR] | | |
+|Sept. 16| Lab 1: AR | | |
 |Sept. 22| [Lecture 3: ARIMA models](./slides/lecture3.pdf) | |  
-|Sept. 23| [Lab 2: ARIMA] | | |
-|Sept. 29| [Lecture 4: LDS, Kalman filtering] |  |
-|Sept. 30| [Lab 3: Inference in LDS] | | 
-|Oct. 6|  [Lecture 5: Particle filtering]| | 
-|Oct. 7| [Lab 4: LSD parameter learning] | | |
-|Oct. 13| [Lecture 6: Hidden Markov Models | Project proposal due | |
-|Oct. 14| [Lab 5: Particle filtering] | | 
+|Sept. 23| Lab 2: ARIMA | | |
+|Sept. 29| Lecture 4: LDS, Kalman filtering |  |
+|Sept. 30| Lab 3: Inference in LDS | | 
+|Oct. 6|  Lecture 5: Particle filtering| | 
+|Oct. 7| Lab 4: LSD parameter learning | | |
+|Oct. 13| Lecture 6: Hidden Markov Models | Project proposal due | |
+|Oct. 14| Lab 5: Particle filtering | | 
 |Oct.20| Lecture 7: a unified view of linear models | | 
 |Oct.21| Lab 6: HMMs | | 
 |Oct.27| Mid-term exam | | 
