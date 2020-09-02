@@ -2,7 +2,7 @@
 #  DS-GA 3001.001 Probabilistic Time Series Analysis
 
 ### Lecture 
-Tue, 2:00-3:40pm, Room: EDUC_176 (capacity = 54) 
+Tue, 2:00-3:40pm, Room:  19 West 4th St, Rm 101 (capacity = 40)
 Instruction Mode: Blended 
 
 ### Lab (required for all students)
