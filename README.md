@@ -59,7 +59,7 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |Sept. 8| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.](./slides/lecture1.pdf)| | 
 |Sept. 9| No lab. Recap basic Bayes, graphical models as prerecorded video (classes meet on Mo schedule)] | | 
 |Sept. 15| [Lecture 2: AR basic inference and learning](./slides/lecture2.pdf) | |  
-|Sept. 16| Lab 1: AR | | |
+|Sept. 16| Lab 1: AR ([Slides](./labs/lab1/lab1_slides.pdf) \| [Notebook](./labs/lab1/lab1.ipynb)) | | |
 |Sept. 22| [Lecture 3: ARIMA models](./slides/lecture3.pdf) | |  
 |Sept. 23| Lab 2: ARIMA | | |
 |Sept. 29| Lecture 4: LDS, Kalman filtering |  |
