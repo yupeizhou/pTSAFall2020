@@ -61,9 +61,9 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |Sept. 15| [Lecture 2: AR basic inference and learning](./slides/lecture2.pdf) | |  
 |Sept. 16| [Lab 1: AR](./labs/lab1) | | |
 |Sept. 22| [Lecture 3: ARIMA models](./slides/lecture3.pdf) | |  
-|Sept. 23| Lab 2: ARIMA | | |
-|Sept. 29| Lecture 4: LDS, Kalman filtering |  |
-|Sept. 30| Lab 3: Inference in LDS | | 
+|Sept. 23| [Lab 2: ARIMA](./labs/lab2) | | |
+|Sept. 29| [Lecture 4: LDS, Kalman filtering](./slides/lecture4.pdf) |  |
+|Sept. 30| [Lab 3: Inference in LDS](./labs/lab3) | | 
 |Oct. 6|  Lecture 5: Particle filtering| | 
 |Oct. 7| Lab 4: LSD parameter learning | | |
 |Oct. 13| Lecture 6: Hidden Markov Models | Project proposal due | |
