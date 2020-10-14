@@ -64,10 +64,10 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |Sept. 23| [Lab 2: ARIMA](./labs/lab2) | | |
 |Sept. 29| [Lecture 4: LDS, Kalman filtering](./slides/lecture4.pdf) |  |
 |Sept. 30| [Lab 3: Inference in LDS](./labs/lab3) | | 
-|Oct. 6|  Lecture 5: Particle filtering| | 
-|Oct. 7| Lab 4: LSD parameter learning | | |
-|Oct. 13| Lecture 6: Hidden Markov Models | Project proposal due | |
-|Oct. 14| Lab 5: Particle filtering | | 
+|Oct. 6|  [Lecture 5: Particle filtering](./slides/lecture5.pdf) | | 
+|Oct. 7| [Lab 4: LDS parameter learning](./labs/lab4) | | |
+|Oct. 13| [Lecture 6: Hidden Markov Models](./slides/lecture6.pdf) | Project proposal due | |
+|Oct. 14| [Lab 5: Particle filtering](./labs/lab5) | | 
 |Oct.20| Lecture 7: a unified view of linear models | | 
 |Oct.21| Lab 6: HMMs | | 
 |Oct.27| Mid-term exam | | 
