@@ -81,7 +81,7 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |Nov.24|  Lecture 11: Deep learning for time series| | 
 |Nov. 25| Lab 8: RNNS | | 
 |Dec. 1| Lecture 12: Spectral methods  | | 
-|Dec. 4| Lab 9: Spectral methods  | | 
+|Dec. 2| Lab 9: Spectral methods  | | 
 |Dec. 8| Final projects presentation |  Project reports due Dec.15 |
 |Dec. 9| No lab | | 
 
