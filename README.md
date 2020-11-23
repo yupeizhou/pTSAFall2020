@@ -77,11 +77,11 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |Nov. 10| Lecture 9: GP advanced topics (guest lecturer: A.Wilson) | | 
 |Nov. 11| no lab, work on  projects | | 
 |Nov.17| Lecture 10. Deep learning for time series  | | 
-|Nov.18|  no lab, work on  projects| | 
+|Nov.18|  Lab 8 GP| | 
 |Nov.24|  Lecture 11: Deep learning for time series| | 
-|Nov. 25| Lab 8: RNNS | | 
+|Nov. 25| Lab 9: RNNS | | 
 |Dec. 1| Lecture 12: Spectral methods  | | 
-|Dec. 2| Lab 9: Spectral methods  | | 
+|Dec. 2| Lab 10: Spectral methods  | | 
 |Dec. 8| Final projects presentation |  Project reports due Dec.15 |
 |Dec. 9| No lab | | 
 
