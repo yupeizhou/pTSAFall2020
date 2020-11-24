@@ -69,17 +69,17 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |Oct. 13| [Lecture 6: Hidden Markov Models](./slides/lecture6.pdf) | Project proposal due | |
 |Oct. 14| [Lab 5: Particle filtering](./labs/lab5) | | 
 |Oct.20| Lecture 7: a unified view of linear models | | 
-|Oct.21| Lab 6: HMMs | | 
+|Oct.21| [Lab 6: HMMs](./labs/lab6) | | 
 |Oct.27| Mid-term exam | | 
 |Oct.28| No lab | | 
 |Nov.3|  Lecture 8: Intro to GPs | | 
-|Nov.4|  Lab 7: GP regression | | 
+|Nov.4|  [Lab 7: GP regression](./labs/lab7) | | 
 |Nov. 10| Lecture 9: GP advanced topics (guest lecturer: A.Wilson) | | 
 |Nov. 11| no lab, work on  projects | | 
 |Nov.17| Lecture 10. Deep learning for time series  | | 
-|Nov.18|  Lab 8 GP| | 
+|Nov.18|  [Lab 8: GP, Part 2](./labs/lab8) | | 
 |Nov.24|  Lecture 11: Deep learning for time series| | 
-|Nov. 25| Lab 9: RNNS | | 
+|Nov. 25| [Lab 9: RNNs](./labs/lab9) | | 
 |Dec. 1| Lecture 12: Spectral methods  | | 
 |Dec. 2| Lab 10: Spectral methods  | | 
 |Dec. 8| Final projects presentation |  Project reports due Dec.15 |
