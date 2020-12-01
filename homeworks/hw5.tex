@@ -1,0 +1,44 @@
+\documentclass[12pt]{article}
+
+\usepackage[a4paper,margin=0.5in]{geometry}
+
+\usepackage[square,numbers,sort&compress]{natbib}
+%\usepackage[sort&compress]{natbib}
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{amsmath}
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+
+\usepackage{graphicx}
+\newcommand{\bigo}[1]{{\cal O}\left(#1 \right)}
+\newcommand{\p}{\mathrm{P}}
+\newcommand{\vect}[1]{\mathbf{#1}}
+\newcommand{\Var}{\mathrm{Var}}
+\newcommand{\tr}{^\top}
+\begin{document}
+\thispagestyle{empty}
+\begin{center}
+
+\textbf{DS-GA 3001.001  Probabilistic Time Series Analysis \\
+Homework 5}
+\end{center}
+
+\noindent \textbf{This is a bonus homework. Due date: Dec 11}\\
+
+\noindent \textbf{Problem 1. (20pt)} Given an AR(1) process, $ x_t = \phi x_{t-1} + w_t$, with $|\phi|<1$ and white noise variance $\sigma_w^2$, \\
+1) compute the corresponding power spectrum, $f_x(\omega)$.\\
+2) show that the CCF can be obtained by inverting $f_x(\omega)$.\\
+Note: see also problem 4.6 from Shumway (pg 232 on tsa4.pdf).\\
+
+\noindent \textbf{Problem 2. (10pt)} Given an MA(1) process, $ x_t = w_t - \theta w_{t-1}, with parameter $\theta$ and white noise variance $\sigma_w^2$. Compute the corresponding power spectrum, $f_x(\omega)$. \\
+
+
+\end{document}
